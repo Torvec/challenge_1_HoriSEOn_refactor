@@ -8,7 +8,7 @@ The week 01 bootcamp challenge was to refactor the HTML and CSS code for the Hor
 
 HTML example (Left side is the starter code, Right side is refactored code):
 ![HTML Example](./assets/images/readme-img-html.jpg)
-CSS example (Left sid eis starter code, Right side is refactored code):
+CSS example (Left side is the starter code, Right side is refactored code):
 ![CSS Example](./assets/images/readme-img-css.jpg)
 
 ## Installation

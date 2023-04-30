@@ -21,8 +21,8 @@ This page is used for grading purposes by the UC Berkley coding bootcamp staff.
 
 ## Credits
 
-Code Refactor Starter Code: [urban-octo-telegram repo](https://github.com/coding-boot-camp/urban-octo-telegram)
-Edward Von Schondorf
+- Code Refactor Starter Code: [urban-octo-telegram repo](https://github.com/coding-boot-camp/urban-octo-telegram)
+- Edward Von Schondorf
 
 ## License
 

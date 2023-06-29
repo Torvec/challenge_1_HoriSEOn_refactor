@@ -7,7 +7,7 @@ The week 01 bootcamp challenge was to refactor the HTML and CSS code for the Hor
 
 ## GitHub Pages
 
-Visit the GitHub pages link to see website: [HoriSEOn Refactor](https://torvec.github.io/challenge_1_HoriSEOn_refactor/)
+Visit the GitHub pages link to see website: [HoriSEOn Refactor](https://torvec.github.io/m1_horiseon_refactor/)
 
 ## Visuals
 
